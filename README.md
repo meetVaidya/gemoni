@@ -1,4 +1,4 @@
-# chat_gpt
+# GEMONI AI
 
 A new Flutter project.
 
